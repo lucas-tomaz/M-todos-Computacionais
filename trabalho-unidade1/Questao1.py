@@ -1,3 +1,5 @@
+#DESCRIÇÃO: RESOLUÇÃO DA QUESTÃO 1 DA LISTA DE EXERCÍCIOS SOBRE AJUSTE LINEAR USANDO TRANSFORMAÇÕES
+# DE UMA EXPRESSÃO AX^B = LOG(Y) = LOG(A) + B.LOG(X):
 import matplotlib.pyplot as plt
 import numpy as np
 
